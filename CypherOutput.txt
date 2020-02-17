@@ -1,0 +1,11 @@
+The encoded word: MSOKKJCOSXOEEKDTOSLGFWCMCHSUSGX is the decoded word: caesarswifemustbeabovesuspicion
+Cypher complete using key: ('k', 's') in 0.046535491943359375 seconds.
+
+The encoded word: OOPCULNWFRCFQAQJGPNARMEYUODYOUNRGWORQEPVARCEPBBSCEQYEARAJUYGWWYACYWBPRNEJBMDTEAEYCCFJNENSGWAQRTSJTGXNRQRMDGFEEPHSJRGFCFMACCB is the decoded word: fortunewhichhasagreatdealofpowerinothermattersbutespeciallyinwarcanbringaboutgreatchangesinasituationthroughveryslightforces
+Cypher complete using key: ('j', 'a', 'y') in 1.4079530239105225 seconds.
+
+The encoded word: MTZHZEOQKASVBDOWMWMKMNYIIHVWPEXJA is the decoded word: experienceistheteacherofallthings
+Cypher complete using key: ('i', 'w', 'k', 'd') in 34.46873712539673 seconds.
+
+The encoded word: HUETNMIXVTMQWZTQMMZUNZXNSSBLNSJVSJQDLKR is the decoded word: imaginationismoreimportantthanknowledge
+Cypher complete using key: ('z', 'i', 'e', 'n', 'f') in 1872.4484009742737 seconds.
